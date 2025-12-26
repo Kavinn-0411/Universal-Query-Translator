@@ -1,1 +1,4 @@
 .env
+./venv/
+unsloth_compiled_cache/
+__pycache__/
